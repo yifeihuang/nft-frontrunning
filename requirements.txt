@@ -1,0 +1,14 @@
+pandas==1.2.4
+networkx==2.5.1
+pendulum==1.4.4
+numpy==1.18.5
+jupyter==1.0.0
+jupyter-client==6.1.6
+jupyter-console==6.1.0
+jupyter-core==4.6.3
+jupyterlab==2.2.0
+jupyterlab-server==1.2.0
+ipykernel==5.3.4
+ipython==7.16.1
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
