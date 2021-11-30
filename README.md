@@ -9,4 +9,4 @@ The example code in Jupyter notebook use graph algorithm to find the signatures 
 - create a python environment using `pyenv`
 - activate environment and run `pip install -r requirements.txt`
 - run jupyter lab
-- play through the notebook
+- play through the `detection_script` notebook
